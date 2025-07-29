@@ -16,8 +16,10 @@ The goal is to identify sales trends by platform, game, and year during this per
 ## Key Findings
 
 - **2008** marked the highest total sales volume
+<img width="1712" height="679" alt="Screenshot_2008" src="https://github.com/user-attachments/assets/c77d4c53-479a-4e80-83cf-8cacca23e21d" />
 
 - Nintendo platforms (**Wii, DS**) dominated most years until the **Xbox 360 and PS3** gained significant traction
+<img width="1714" height="666" alt="Screenshot_2010" src="https://github.com/user-attachments/assets/7b7524a0-4a33-4648-9613-3f1c67577010" />
 
 - Sales began to decline after 2009, suggesting **market saturation** before the next console generation.
 - The **console release timeline** could explain this peak over the years. The triple punch of the Xbox 360 (2005), Wii (2006), and PS3(2006) collectively contribute to the sores in sales.
