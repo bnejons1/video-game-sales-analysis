@@ -14,6 +14,7 @@ The goal is to identify sales trends by platform, game, and year during this per
 - Compared **platform sales per year** to see market share shifts
 
 ## Key Findings
+<img width="717" height="455" alt="Screenshot_Total" src="https://github.com/user-attachments/assets/1a72c741-565e-4bf4-9550-cdeb86832b9c" />
 
 - **2008** marked the highest total sales volume
 <img width="1712" height="679" alt="Screenshot_2008" src="https://github.com/user-attachments/assets/c77d4c53-479a-4e80-83cf-8cacca23e21d" />
